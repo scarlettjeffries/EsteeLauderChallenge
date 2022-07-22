@@ -14,6 +14,8 @@
 		3E9DA0EC2889188800394B40 /* esteelauder.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 3E9DA0EA2889188800394B40 /* esteelauder.xcdatamodeld */; };
 		3E9DA0EE2889188B00394B40 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3E9DA0ED2889188B00394B40 /* Assets.xcassets */; };
 		3E9DA0F12889188B00394B40 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3E9DA0EF2889188B00394B40 /* LaunchScreen.storyboard */; };
+		3E9DA107288A36BF00394B40 /* ReviewViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E9DA106288A36BF00394B40 /* ReviewViewController.swift */; };
+		3E9DA109288A4B6B00394B40 /* AboutEsteeLauderViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E9DA108288A4B6B00394B40 /* AboutEsteeLauderViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +28,8 @@
 		3E9DA0ED2889188B00394B40 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3E9DA0F02889188B00394B40 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3E9DA0F22889188B00394B40 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3E9DA106288A36BF00394B40 /* ReviewViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReviewViewController.swift; sourceTree = "<group>"; };
+		3E9DA108288A4B6B00394B40 /* AboutEsteeLauderViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutEsteeLauderViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +65,8 @@
 				3E9DA0E12889188800394B40 /* AppDelegate.swift */,
 				3E9DA0E32889188800394B40 /* SceneDelegate.swift */,
 				3E9DA0E52889188800394B40 /* ViewController.swift */,
+				3E9DA106288A36BF00394B40 /* ReviewViewController.swift */,
+				3E9DA108288A4B6B00394B40 /* AboutEsteeLauderViewController.swift */,
 				3E9DA0E72889188800394B40 /* Main.storyboard */,
 				3E9DA0ED2889188B00394B40 /* Assets.xcassets */,
 				3E9DA0EF2889188B00394B40 /* LaunchScreen.storyboard */,
@@ -143,7 +149,9 @@
 			files = (
 				3E9DA0E62889188800394B40 /* ViewController.swift in Sources */,
 				3E9DA0E22889188800394B40 /* AppDelegate.swift in Sources */,
+				3E9DA107288A36BF00394B40 /* ReviewViewController.swift in Sources */,
 				3E9DA0E42889188800394B40 /* SceneDelegate.swift in Sources */,
+				3E9DA109288A4B6B00394B40 /* AboutEsteeLauderViewController.swift in Sources */,
 				3E9DA0EC2889188800394B40 /* esteelauder.xcdatamodeld in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
